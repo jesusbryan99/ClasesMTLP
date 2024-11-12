@@ -2,7 +2,7 @@ while True:
     numero1= float(input("Ingresa el primer numero"))
     numero2= float(input("Ingresa el Segundo numero"))
     operacion= input("Ingresa la operacion que deseas realizar + - / *")
-
+   
     if operacion == "+":
         resultado = numero1+numero2
         print("el resultado de la suma es:",resultado)
